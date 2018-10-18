@@ -1,0 +1,169 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+}
+/************ textos ***************/
+.text-center{
+    text-align: center;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.text-bold{ /*texto en negrita*/
+    font-weight: bold;
+}
+
+.text-tag{
+    background: #eeff00;
+}
+
+.text-blue{
+    color: #0000ff;
+}
+
+.text-red{
+    color: #ff0000;
+}
+
+/************ margenes ***************/
+.am-1{ /*todos los margenes con 15px*/
+    margin: 15px;
+}
+
+.am-2{ /*todos los margenes con 30px*/
+    margin: 30px;
+}
+
+.mt-1{ /*Solo margen superior con 15px*/
+    margin-top: 15px;
+}
+
+.mt-2{ /*Solo margen superior con 30px*/
+    margin-top: 30px;
+}
+
+.ml-1{ /*Solo margen izquierdo con 15px*/
+    margin-left: 15px;
+}
+
+.ml-2{ /*Solo margen izquierdo con 30px*/
+    margin-left: 30px;
+}
+
+.mr-1{ /*Solo margen derecho con 15px*/
+    margin-right: 15px;
+}
+
+.mr-2{ /*Solo margen superior con 30px*/
+    margin-right: 30px;
+}
+
+.mb-1{ /*Solo margen inferior con 15px*/
+    margin-bottom: 15px;
+}
+
+.mb-2{ /*Solo margen inferior con 30px*/
+    margin-bottom: 30px;
+}
+/********* end margenes ***************/
+
+
+
+.ap-1{ /*Tooos los padding a 15px*/
+    padding: 15px;
+}
+.ap-2{ /*Tooos los padding a 30px*/
+    padding: 30px;
+}
+
+.pt-1{ /*Solo padding superior a 15px*/
+    padding-top: 15px;
+}
+
+.pt-2 { /*Solo padding superior a 30x*/
+    padding-top: 30px;
+}
+
+.pb-1{ /*Solo padding inferior a 15x*/
+    padding-bottom: 15px;
+}
+
+.pb-2 { /*Solo padding inferior a 30x*/
+    padding-bottom: 30px;
+}
+
+.pl-1{ /*Solo padding izquierdo a 15x*/
+    padding-left: 15px;
+}
+
+.pl-2 { /*Solo padding izquierdo a 30x*/
+    padding-left: 30px;
+}
+
+.pr-1{ /*Solo padding derecho a 15x*/
+    padding-right: 15px;
+}
+
+.pr-2 { /*Solo padding derecho a 30x*/
+    padding-right: 30px;
+}
+
+
+
+/************ bordes ***************/
+.ab{ /* Todos los bordes */
+    border: 1px #000 solid;
+}
+
+.b-top { 
+    border-top: 1px #000 solid;
+}
+
+.b-bottom{
+    border-bottom: 1px #000 solid;
+}
+
+.b-left{
+    border-left: 1px #000 solid;
+}
+
+.b-right{
+    border-right: 1px #000 solid;
+}
+
+
+
+/************ bordes redondeados ***************/
+.abr{ /* todos los bordes redondeados*/
+    border-radius: 10px;
+}
+
+.brt-left{ /* borde redondeado de arriba*/
+    border-top-left-radius: 10px;
+}
+
+.brt-right{ /* borde redondeado de arriba*/
+    border-top-right-radius: 10px;
+}
+
+.brb-left{ /* borde redondeado de abajo*/
+    border-bottom-left-radius: 10px;
+}
+
+.brb-right{ /* borde redondeado de abajo*/
+    border-bottom-right-radius: 10px;
+}
