@@ -1,0 +1,48 @@
+.espacio {
+    padding: 30px;
+    margin: 15px;
+}
+.div-con-borde {
+    border: 1px  #cccccc solid;
+}
+
+.borde-chido {
+    border-radius: 15px;
+}
+
+.bg-black {
+    background: #000;
+}
+
+.fuente-grande{
+    font-size: 2em;
+}
+
+.verde{
+    background: #b3ff00;
+    color: #216b17;
+}
+
+.desafio{
+    background: #ddd;
+    color: #3d3d3d;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom: 5px #747474 solid;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.texto-rojo{
+    color: #ff0000;
+    border: #ff0000 1px solid;
+}
+
+.letra-fondo-negro{
+    color: #747474;
+}
